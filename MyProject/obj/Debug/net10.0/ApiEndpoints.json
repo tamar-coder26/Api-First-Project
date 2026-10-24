@@ -61,7 +61,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "System.String",
+        "Type": "MyProject.wwwroot.Users",
         "MediaTypes": [
           "text/plain",
           "application/json",

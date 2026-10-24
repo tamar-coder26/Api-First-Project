@@ -126,3 +126,4 @@ D:\MyProject\MyProject\obj\Debug\net10.0\MyProject.pdb
 D:\MyProject\MyProject\obj\Debug\net10.0\MyProject.genruntimeconfig.cache
 D:\MyProject\MyProject\obj\Debug\net10.0\ref\MyProject.dll
 D:\MyProject\MyProject\obj\Debug\net10.0\MyProject.csproj.Up2Date
+D:\MyProject\MyProject\obj\Debug\net10.0\MyProject.sourcelink.json

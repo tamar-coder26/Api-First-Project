@@ -1,4 +1,4 @@
 wwwroot\Home.html
 wwwroot\Home.js
-D:\MyProject\MyProject\wwwroot\Home.html
 D:\MyProject\MyProject\wwwroot\Home.js
+D:\MyProject\MyProject\wwwroot\Home.html

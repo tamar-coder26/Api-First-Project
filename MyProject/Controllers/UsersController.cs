@@ -18,14 +18,25 @@ namespace MyProject.Controllers
             return new string[] { "China", "Japan", "Israel" };
         }
 
+        static string filePath = "User.txt";
         // GET api/<UsersController>/5
         [HttpGet("{id}")]
-        public string Get(int id)
-        {
-            return "value";
-        }
+            public ActionResult<Users> Get(int id)
+            {
+                using (StreamReader reader = System.IO.File.OpenText(filePath))
+                {
+                    string? currentUserInFile;
+                    while ((currentUserInFile = reader.ReadLine()) != null)
+                    {
+                        Users user = JsonSerializer.Deserialize<Users>(currentUserInFile);
+                        if (user.Id == id)
+                            return user;
+                    }
+                }
+                return NotFound();
 
-        static string filePath = "User.txt";
+            }
+        
         //POST api/<UsersController>
         
         //public ActionResult<Users> Post([FromBody] Users user)
@@ -46,7 +57,7 @@ namespace MyProject.Controllers
             string userJson = JsonSerializer.Serialize(user);
             System.IO.File.AppendAllText(filePath, userJson +
             Environment.NewLine);
-            return Ok(user);
+            return CreatedAtAction(nameof(Get),new {id=user.Id}, user);
         }
         [HttpPost ("Login")]
         public ActionResult<Users> PostLog([FromBody] LogUsers loginUser)

@@ -1,2 +1,0 @@
-G:\MyProject\MyProject\wwwroot\Home.html
-G:\MyProject\MyProject\wwwroot\Home.js
