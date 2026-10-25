@@ -1,4 +1,8 @@
 wwwroot\Home.html
 wwwroot\Home.js
-D:\MyProject\MyProject\wwwroot\Home.js
-D:\MyProject\MyProject\wwwroot\Home.html
+wwwroot\Update.html
+wwwroot\Update.js
+M:\MyProject 25.10\MyProject\wwwroot\Home.html
+M:\MyProject 25.10\MyProject\wwwroot\Home.js
+M:\MyProject 25.10\MyProject\wwwroot\Update.html
+M:\MyProject 25.10\MyProject\wwwroot\Update.js

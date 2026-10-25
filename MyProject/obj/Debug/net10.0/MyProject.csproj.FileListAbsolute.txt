@@ -59,8 +59,6 @@ E:\MyProject\MyProject\obj\Debug\net10.0\refint\MyProject.dll
 E:\MyProject\MyProject\obj\Debug\net10.0\MyProject.pdb
 E:\MyProject\MyProject\obj\Debug\net10.0\MyProject.genruntimeconfig.cache
 E:\MyProject\MyProject\obj\Debug\net10.0\ref\MyProject.dll
-E:\MyProject\MyProject\obj\Debug\net10.0\compressed\xtnbnryung-{0}-vv7kktztkm-vv7kktztkm.gz
-E:\MyProject\MyProject\obj\Debug\net10.0\compressed\1bu9314cmc-{0}-zgsv448bcj-zgsv448bcj.gz
 G:\MyProject\MyProject\bin\Debug\net10.0\appsettings.Development.json
 G:\MyProject\MyProject\bin\Debug\net10.0\appsettings.json
 G:\MyProject\MyProject\bin\Debug\net10.0\MyProject.staticwebassets.runtime.json
@@ -127,3 +125,41 @@ D:\MyProject\MyProject\obj\Debug\net10.0\MyProject.genruntimeconfig.cache
 D:\MyProject\MyProject\obj\Debug\net10.0\ref\MyProject.dll
 D:\MyProject\MyProject\obj\Debug\net10.0\MyProject.csproj.Up2Date
 D:\MyProject\MyProject\obj\Debug\net10.0\MyProject.sourcelink.json
+E:\MyProject\MyProject\obj\Debug\net10.0\MyProject.sourcelink.json
+E:\MyProject\MyProject\obj\Debug\net10.0\compressed\xtnbnryung-{0}-e6w30a9d96-e6w30a9d96.gz
+E:\MyProject\MyProject\obj\Debug\net10.0\compressed\1bu9314cmc-{0}-qj4a8y7tvn-qj4a8y7tvn.gz
+M:\MyProject 25.10\MyProject\bin\Debug\net10.0\appsettings.Development.json
+M:\MyProject 25.10\MyProject\bin\Debug\net10.0\appsettings.json
+M:\MyProject 25.10\MyProject\bin\Debug\net10.0\MyProject.staticwebassets.endpoints.json
+M:\MyProject 25.10\MyProject\bin\Debug\net10.0\MyProject.staticwebassets.runtime.json
+M:\MyProject 25.10\MyProject\bin\Debug\net10.0\MyProject.exe
+M:\MyProject 25.10\MyProject\bin\Debug\net10.0\MyProject.deps.json
+M:\MyProject 25.10\MyProject\bin\Debug\net10.0\MyProject.runtimeconfig.json
+M:\MyProject 25.10\MyProject\bin\Debug\net10.0\MyProject.dll
+M:\MyProject 25.10\MyProject\bin\Debug\net10.0\MyProject.pdb
+M:\MyProject 25.10\MyProject\obj\Debug\net10.0\rpswa.dswa.cache.json
+M:\MyProject 25.10\MyProject\obj\Debug\net10.0\MyProject.GeneratedMSBuildEditorConfig.editorconfig
+M:\MyProject 25.10\MyProject\obj\Debug\net10.0\MyProject.AssemblyInfoInputs.cache
+M:\MyProject 25.10\MyProject\obj\Debug\net10.0\MyProject.AssemblyInfo.cs
+M:\MyProject 25.10\MyProject\obj\Debug\net10.0\MyProject.csproj.CoreCompileInputs.cache
+M:\MyProject 25.10\MyProject\obj\Debug\net10.0\MyProject.MvcApplicationPartsAssemblyInfo.cache
+M:\MyProject 25.10\MyProject\obj\Debug\net10.0\MyProject.sourcelink.json
+M:\MyProject 25.10\MyProject\obj\Debug\net10.0\rjimswa.dswa.cache.json
+M:\MyProject 25.10\MyProject\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+M:\MyProject 25.10\MyProject\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+M:\MyProject 25.10\MyProject\obj\Debug\net10.0\scopedcss\bundle\MyProject.styles.css
+M:\MyProject 25.10\MyProject\obj\Debug\net10.0\staticwebassets.build.json
+M:\MyProject 25.10\MyProject\obj\Debug\net10.0\staticwebassets.build.json.cache
+M:\MyProject 25.10\MyProject\obj\Debug\net10.0\staticwebassets.development.json
+M:\MyProject 25.10\MyProject\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+M:\MyProject 25.10\MyProject\obj\Debug\net10.0\swae.build.ex.cache
+M:\MyProject 25.10\MyProject\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+M:\MyProject 25.10\MyProject\obj\Debug\net10.0\MyProject.dll
+M:\MyProject 25.10\MyProject\obj\Debug\net10.0\refint\MyProject.dll
+M:\MyProject 25.10\MyProject\obj\Debug\net10.0\MyProject.pdb
+M:\MyProject 25.10\MyProject\obj\Debug\net10.0\MyProject.genruntimeconfig.cache
+M:\MyProject 25.10\MyProject\obj\Debug\net10.0\ref\MyProject.dll
+M:\MyProject 25.10\MyProject\obj\Debug\net10.0\compressed\xtnbnryung-{0}-ihody3h4c3-ihody3h4c3.gz
+M:\MyProject 25.10\MyProject\obj\Debug\net10.0\compressed\kbox7yjxvs-{0}-gn1orqt2df-gn1orqt2df.gz
+M:\MyProject 25.10\MyProject\obj\Debug\net10.0\compressed\1bu9314cmc-{0}-bjnclqhxdu-bjnclqhxdu.gz
+M:\MyProject 25.10\MyProject\obj\Debug\net10.0\compressed\fj7a7p8fhw-{0}-rctibnj38q-rctibnj38q.gz

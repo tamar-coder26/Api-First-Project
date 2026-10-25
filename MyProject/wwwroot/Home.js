@@ -1,5 +1,4 @@
 ﻿
-
 const signIn = async () => {
 
     const postData = {
@@ -23,17 +22,25 @@ const signIn = async () => {
 }
 
 const LogIn = async () => {
-    const postData2 = {
-        logemail: document.querySelector("#logemail").value,
-        logpassword: document.querySelector("#logpassword").value
+    try {
+        const postData2 = {
+            logemail: document.querySelector("#logemail").value,
+            logpassword: document.querySelector("#logpassword").value
+        }
+        const response2 = await fetch('api/Users/Login', {
+            method: 'POST',
+            headers: { 'content-Type': 'application/json' },
+            body: JSON.stringify(postData2)
+        })
+        if (response2.ok)
+        {
+            const dataPost = await response2.json();
+            console.log(dataPost.stringify)
+            sessionStorage.setItem("currentUser", JSON.stringify(dataPost));
+            alert("user succsesfuly found")
+        }            
+        else
+            alert("error of login, try again");
     }
-    const response2 = await fetch('api/Users/Login', {
-        method: 'POST',
-        headers: { 'content-Type': 'application/json' },
-        body:JSON.stringify(postData2)
-    })
-    if (response2.ok)
-        alert("user succsesfuly found");
-    else
-        alert("error of login, try again");
+    catch (e) { alert("error"); }
 }

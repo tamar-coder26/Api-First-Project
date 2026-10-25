@@ -21,7 +21,7 @@ namespace MyProject.Controllers
         static string filePath = "User.txt";
         // GET api/<UsersController>/5
         [HttpGet("{id}")]
-            public ActionResult<Users> Get(int id)
+        public ActionResult<Users> Get(int id)
             {
                 using (StreamReader reader = System.IO.File.OpenText(filePath))
                 {
@@ -70,15 +70,34 @@ namespace MyProject.Controllers
                     Users user =
                     JsonSerializer.Deserialize<Users>(currentUserInFile);
                     if (user.useremail == loginUser.logemail && user.password == loginUser.logpassword)
-                        return Ok(loginUser);
+                        return Ok(user);
                 }
             }
             return NotFound();
         }
         // PUT api/<UsersController>/5
         [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
+        public void Put(int id, [FromBody] Users putuser)
         {
+            string textToReplace = string.Empty;
+            using (StreamReader reader =
+            System.IO.File.OpenText(filePath))
+            {
+                string currentUserInFile;
+                while ((currentUserInFile = reader.ReadLine()) != null)
+                {
+                    Users user =
+                    JsonSerializer.Deserialize<Users>(currentUserInFile);
+                    if (user.Id == id)
+                        textToReplace = currentUserInFile;
+                }
+            }
+               if(textToReplace != string.Empty)
+               {
+                string text = System.IO.File.ReadAllText(filePath);
+                text = text.Replace(textToReplace, JsonSerializer.Serialize(putuser));
+                System.IO.File.WriteAllText(filePath, text);
+               }
         }
 
         // DELETE api/<UsersController>/5
