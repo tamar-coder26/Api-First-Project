@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "gyReEfIOwUc=",
+  "dgSpecHash": "FpFxFgukxuk=",
   "success": true,
-  "projectFilePath": "M:\\MyProject 25.10\\MyProject\\MyProject.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\API 27.10\\MyProject 25.10\\MyProject\\MyProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\9004\\.nuget\\packages\\zxcvbn-core\\7.0.92\\zxcvbn-core.7.0.92.nupkg.sha512"
+  ],
   "logs": []
 }

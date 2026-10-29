@@ -1,8 +1,8 @@
 wwwroot\Home.html
-wwwroot\Home.js
 wwwroot\Update.html
 wwwroot\Update.js
-M:\MyProject 25.10\MyProject\wwwroot\Home.html
-M:\MyProject 25.10\MyProject\wwwroot\Home.js
-M:\MyProject 25.10\MyProject\wwwroot\Update.html
-M:\MyProject 25.10\MyProject\wwwroot\Update.js
+wwwroot\Home.js
+E:\API 27.10\MyProject 25.10\MyProject\wwwroot\Home.html
+E:\API 27.10\MyProject 25.10\MyProject\wwwroot\Update.html
+E:\API 27.10\MyProject 25.10\MyProject\wwwroot\Update.js
+E:\API 27.10\MyProject 25.10\MyProject\wwwroot\Home.js

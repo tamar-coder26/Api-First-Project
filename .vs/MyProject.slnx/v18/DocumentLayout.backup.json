@@ -1,46 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "M:\\MyProject 25.10\\",
+  "WorkspaceRootPath": "E:\\API 27.10\\MyProject 25.10\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BFB40626-61B2-99D6-4B1E-D76B0C91E446}|MyProject\\MyProject.csproj|m:\\myproject 25.10\\myproject\\wwwroot\\update.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{BFB40626-61B2-99D6-4B1E-D76B0C91E446}|MyProject\\MyProject.csproj|solutionrelative:myproject\\wwwroot\\update.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFB40626-61B2-99D6-4B1E-D76B0C91E446}|MyProject\\MyProject.csproj|m:\\myproject 25.10\\myproject\\wwwroot\\update.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BFB40626-61B2-99D6-4B1E-D76B0C91E446}|MyProject\\MyProject.csproj|solutionrelative:myproject\\wwwroot\\update.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFB40626-61B2-99D6-4B1E-D76B0C91E446}|MyProject\\MyProject.csproj|m:\\myproject 25.10\\myproject\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFB40626-61B2-99D6-4B1E-D76B0C91E446}|MyProject\\MyProject.csproj|solutionrelative:myproject\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFB40626-61B2-99D6-4B1E-D76B0C91E446}|MyProject\\MyProject.csproj|m:\\myproject 25.10\\myproject\\wwwroot\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{BFB40626-61B2-99D6-4B1E-D76B0C91E446}|MyProject\\MyProject.csproj|e:\\api 27.10\\myproject 25.10\\myproject\\wwwroot\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{BFB40626-61B2-99D6-4B1E-D76B0C91E446}|MyProject\\MyProject.csproj|solutionrelative:myproject\\wwwroot\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFB40626-61B2-99D6-4B1E-D76B0C91E446}|MyProject\\MyProject.csproj|m:\\myproject 25.10\\myproject\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFB40626-61B2-99D6-4B1E-D76B0C91E446}|MyProject\\MyProject.csproj|solutionrelative:myproject\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFB40626-61B2-99D6-4B1E-D76B0C91E446}|MyProject\\MyProject.csproj|m:\\myproject 25.10\\myproject\\wwwroot\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{BFB40626-61B2-99D6-4B1E-D76B0C91E446}|MyProject\\MyProject.csproj|e:\\api 27.10\\myproject 25.10\\myproject\\wwwroot\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BFB40626-61B2-99D6-4B1E-D76B0C91E446}|MyProject\\MyProject.csproj|solutionrelative:myproject\\wwwroot\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFB40626-61B2-99D6-4B1E-D76B0C91E446}|MyProject\\MyProject.csproj|m:\\myproject 25.10\\myproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{BFB40626-61B2-99D6-4B1E-D76B0C91E446}|MyProject\\MyProject.csproj|e:\\api 27.10\\myproject 25.10\\myproject\\controllers\\passwords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFB40626-61B2-99D6-4B1E-D76B0C91E446}|MyProject\\MyProject.csproj|solutionrelative:myproject\\controllers\\passwords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFB40626-61B2-99D6-4B1E-D76B0C91E446}|MyProject\\MyProject.csproj|e:\\api 27.10\\myproject 25.10\\myproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{BFB40626-61B2-99D6-4B1E-D76B0C91E446}|MyProject\\MyProject.csproj|solutionrelative:myproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFB40626-61B2-99D6-4B1E-D76B0C91E446}|MyProject\\MyProject.csproj|m:\\myproject 25.10\\myproject\\myproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{BFB40626-61B2-99D6-4B1E-D76B0C91E446}|MyProject\\MyProject.csproj|e:\\api 27.10\\myproject 25.10\\myproject\\myproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{BFB40626-61B2-99D6-4B1E-D76B0C91E446}|MyProject\\MyProject.csproj|solutionrelative:myproject\\myproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFB40626-61B2-99D6-4B1E-D76B0C91E446}|MyProject\\MyProject.csproj|m:\\myproject 25.10\\myproject\\user.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{BFB40626-61B2-99D6-4B1E-D76B0C91E446}|MyProject\\MyProject.csproj|solutionrelative:myproject\\user.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFB40626-61B2-99D6-4B1E-D76B0C91E446}|MyProject\\MyProject.csproj|m:\\myproject 25.10\\myproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFB40626-61B2-99D6-4B1E-D76B0C91E446}|MyProject\\MyProject.csproj|solutionrelative:myproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,109 +34,48 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "M:\\MyProject 25.10\\MyProject\\Program.cs",
-              "RelativeDocumentMoniker": "MyProject\\Program.cs",
-              "ToolTip": "M:\\MyProject 25.10\\MyProject\\Program.cs",
-              "RelativeToolTip": "MyProject\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T15:22:00.259Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Update.js",
-              "DocumentMoniker": "M:\\MyProject 25.10\\MyProject\\wwwroot\\Update.js",
-              "RelativeDocumentMoniker": "MyProject\\wwwroot\\Update.js",
-              "ToolTip": "M:\\MyProject 25.10\\MyProject\\wwwroot\\Update.js",
-              "RelativeToolTip": "MyProject\\wwwroot\\Update.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-10-25T15:03:58.786Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Update.html",
-              "DocumentMoniker": "M:\\MyProject 25.10\\MyProject\\wwwroot\\Update.html",
-              "RelativeDocumentMoniker": "MyProject\\wwwroot\\Update.html",
-              "ToolTip": "M:\\MyProject 25.10\\MyProject\\wwwroot\\Update.html",
-              "RelativeToolTip": "MyProject\\wwwroot\\Update.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-10-25T15:03:41.711Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Home.html",
-              "DocumentMoniker": "M:\\MyProject 25.10\\MyProject\\wwwroot\\Home.html",
+              "DocumentMoniker": "E:\\API 27.10\\MyProject 25.10\\MyProject\\wwwroot\\Home.html",
               "RelativeDocumentMoniker": "MyProject\\wwwroot\\Home.html",
-              "ToolTip": "M:\\MyProject 25.10\\MyProject\\wwwroot\\Home.html",
+              "ToolTip": "E:\\API 27.10\\MyProject 25.10\\MyProject\\wwwroot\\Home.html",
               "RelativeToolTip": "MyProject\\wwwroot\\Home.html",
-              "ViewState": "AgIAAAUAAAAAAAAAAADwvxoAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2026-10-19T10:00:06.048Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "M:\\MyProject 25.10\\MyProject\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "MyProject\\Controllers\\UsersController.cs",
-              "ToolTip": "M:\\MyProject 25.10\\MyProject\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "MyProject\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFQAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T15:25:02.658Z"
+              "DocumentIndex": 0,
+              "Title": "Home.js",
+              "DocumentMoniker": "E:\\API 27.10\\MyProject 25.10\\MyProject\\wwwroot\\Home.js",
+              "RelativeDocumentMoniker": "MyProject\\wwwroot\\Home.js",
+              "ToolTip": "E:\\API 27.10\\MyProject 25.10\\MyProject\\wwwroot\\Home.js",
+              "RelativeToolTip": "MyProject\\wwwroot\\Home.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-10-15T09:59:54.832Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "User.txt",
-              "DocumentMoniker": "M:\\MyProject 25.10\\MyProject\\User.txt",
-              "RelativeDocumentMoniker": "MyProject\\User.txt",
-              "ToolTip": "M:\\MyProject 25.10\\MyProject\\User.txt",
-              "RelativeToolTip": "MyProject\\User.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-10-15T09:59:07.888Z"
+              "DocumentIndex": 2,
+              "Title": "Passwords.cs",
+              "DocumentMoniker": "E:\\API 27.10\\MyProject 25.10\\MyProject\\Controllers\\Passwords.cs",
+              "RelativeDocumentMoniker": "MyProject\\Controllers\\Passwords.cs",
+              "ToolTip": "E:\\API 27.10\\MyProject 25.10\\MyProject\\Controllers\\Passwords.cs",
+              "RelativeToolTip": "MyProject\\Controllers\\Passwords.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T10:22:06.762Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Home.js",
-              "DocumentMoniker": "M:\\MyProject 25.10\\MyProject\\wwwroot\\Home.js",
-              "RelativeDocumentMoniker": "MyProject\\wwwroot\\Home.js",
-              "ToolTip": "M:\\MyProject 25.10\\MyProject\\wwwroot\\Home.js",
-              "RelativeToolTip": "MyProject\\wwwroot\\Home.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-10-15T09:59:54.832Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Users.cs",
-              "DocumentMoniker": "M:\\MyProject 25.10\\MyProject\\Users.cs",
-              "RelativeDocumentMoniker": "MyProject\\Users.cs",
-              "ToolTip": "M:\\MyProject 25.10\\MyProject\\Users.cs",
-              "RelativeToolTip": "MyProject\\Users.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-15T09:58:53.833Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "M:\\MyProject 25.10\\MyProject\\Properties\\launchSettings.json",
+              "DocumentMoniker": "E:\\API 27.10\\MyProject 25.10\\MyProject\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "MyProject\\Properties\\launchSettings.json",
-              "ToolTip": "M:\\MyProject 25.10\\MyProject\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\API 27.10\\MyProject 25.10\\MyProject\\Properties\\launchSettings.json",
               "RelativeToolTip": "MyProject\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -164,11 +83,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "MyProject.csproj",
-              "DocumentMoniker": "M:\\MyProject 25.10\\MyProject\\MyProject.csproj",
+              "DocumentMoniker": "E:\\API 27.10\\MyProject 25.10\\MyProject\\MyProject.csproj",
               "RelativeDocumentMoniker": "MyProject\\MyProject.csproj",
-              "ToolTip": "M:\\MyProject 25.10\\MyProject\\MyProject.csproj",
+              "ToolTip": "E:\\API 27.10\\MyProject 25.10\\MyProject\\MyProject.csproj",
               "RelativeToolTip": "MyProject\\MyProject.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",

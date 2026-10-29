@@ -1,0 +1,4 @@
+D:\API 27.10\MyProject 25.10\MyProject\wwwroot\Home.js
+D:\API 27.10\MyProject 25.10\MyProject\wwwroot\Home.html
+D:\API 27.10\MyProject 25.10\MyProject\wwwroot\Update.html
+D:\API 27.10\MyProject 25.10\MyProject\wwwroot\Update.js

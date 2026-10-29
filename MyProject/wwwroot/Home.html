@@ -8,21 +8,23 @@
 <body>
     <h1>hi everyone!</h1>
     <p>email</p>
-    <input id="useremail" placeholder="email" type="email" />
+    <input required id="useremail" placeholder="email" type="email" />
     <p>first name</p>
-    <input id="firstName" placeholder="first name" />
+    <input required id="firstName" placeholder="first name" />
     <p>last name</p>
-    <input id="lastName" placeholder="last name" />
+    <input required id="lastName" placeholder="last name" />
     <p>password</p>
-    <input id="password" placeholder="password" type="password" />
+    <input required id="password" placeholder="password" type="password" />
+    <button onclick="checkPass()">check password strenth </button>
     <button onclick="signIn()">sign in</button>
 
 
     <p>email</p>
-    <input id="logemail" placeholder="email" type="email" />
+    <input required id="logemail" placeholder="email" type="email" />
     <p>password</p>
-    <input id="logpassword" placeholder="password" type="password" />
+    <input required id="logpassword" placeholder="password" type="password" />
     <button onclick="LogIn()">log in</button>
+    <progress id="progress" value="0" max="4"></progress>
 
     <a href="Update.html">update details </a>
 </body>

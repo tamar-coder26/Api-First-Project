@@ -44,3 +44,33 @@ const LogIn = async () => {
     }
     catch (e) { alert("error"); }
 }
+const checkPass = async () => {
+    const password = document.querySelector("#password").value
+    console.log("hi3")
+    try {
+        if (password == '') {console.log("error- empty") }
+        const responsepass = await fetch('api/Passwords', {
+
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify(password)
+        })
+        console.log("hi2")
+
+        if (responsepass.ok)
+        {
+            console.log("hi")
+            const progress = document.querySelector("#progress")
+            console.log("hi4")
+            progress.value = await responsepass.json()
+        }
+        else
+        { throw new(responsepass.status) }
+
+    }
+    catch (e) {
+        console.log(e.message)
+    }
+}
