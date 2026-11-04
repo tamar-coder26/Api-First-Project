@@ -1,4 +1,4 @@
-﻿namespace MyProject.wwwroot
+﻿namespace Entities
 {
     public class Users
     {
@@ -13,6 +13,7 @@
     }
     public class LogUsers
     {
+    
         public string logemail { get; set; }
         public string logpassword { get; set; }
     }

@@ -140,13 +140,13 @@
     "Parameters": [
       {
         "Name": "user",
-        "Type": "MyProject.wwwroot.Users",
+        "Type": "Entities.Users",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "MyProject.wwwroot.Users",
+        "Type": "Entities.Users",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -172,7 +172,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "MyProject.wwwroot.Users",
+        "Type": "Entities.Users",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -197,7 +197,7 @@
       },
       {
         "Name": "putuser",
-        "Type": "MyProject.wwwroot.Users",
+        "Type": "Entities.Users",
         "IsRequired": true
       }
     ],
@@ -241,13 +241,13 @@
     "Parameters": [
       {
         "Name": "loginUser",
-        "Type": "MyProject.wwwroot.LogUsers",
+        "Type": "Entities.LogUsers",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "MyProject.wwwroot.Users",
+        "Type": "Entities.Users",
         "MediaTypes": [
           "text/plain",
           "application/json",

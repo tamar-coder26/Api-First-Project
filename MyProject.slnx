@@ -1,3 +1,6 @@
 <Solution>
+  <Project Path="Entities/Entities.csproj" />
   <Project Path="MyProject/MyProject.csproj" />
+  <Project Path="Repository/Repository.csproj" />
+  <Project Path="Service/Service.csproj" />
 </Solution>
