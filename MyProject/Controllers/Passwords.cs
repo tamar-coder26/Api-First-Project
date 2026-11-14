@@ -6,7 +6,8 @@ namespace MyProject.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class Passwords : ControllerBase
+    //fix: Controller class names end with Controller; the route stays api/Passwords
+    public class PasswordsController : ControllerBase
     {
         // GET: api/<Passwordr>
         [HttpGet]
