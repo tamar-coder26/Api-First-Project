@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using System.Runtime.Intrinsics.Arm;
+//fix: removed the unused using System.Runtime.Intrinsics.Arm
 using System.Text.Json;
 using Service;
 using Entities;
@@ -27,6 +27,7 @@ namespace MyProject.Controllers
         public ActionResult<Users> Get(int id)
             {
 
+            //Why is GET by id not implemented? The assignment asks it to return the user with this id (or NotFound / NoContent)
             return NotFound() ;
             }
         
@@ -54,6 +55,7 @@ namespace MyProject.Controllers
         }
         // PUT api/<UsersController>/5
         [HttpPut("{id}")]
+        //The assignment asks PUT to return Ok(): change void to IActionResult and return Ok() at the end
         public void Put(int id, [FromBody] Users putuser)
         {
              userservice.Update(id, putuser);
