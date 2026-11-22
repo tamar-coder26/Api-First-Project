@@ -6,8 +6,10 @@ namespace MyProject.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class Passwords : ControllerBase
+    //fix: Renamed the class to PasswordsController; the route stays api/Passwords
+    public class PasswordsController : ControllerBase
     {
+        //In C#, the file name should match the type it declares: rename this file to PasswordsController.cs
         // GET: api/<Passwordr>
         [HttpGet]
         public IEnumerable<string> Get()

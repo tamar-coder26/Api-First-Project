@@ -2,6 +2,7 @@
 {
     public class Users
     {
+        //In C#, properties are written in PascalCase: UserEmail. User.txt stores the current names: if you rename them, set PropertyNameCaseInsensitive = true in the JsonSerializerOptions, so the existing file still loads
         public string useremail { get; set; }
         
         public string firstName { get; set; }

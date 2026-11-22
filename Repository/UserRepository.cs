@@ -1,4 +1,5 @@
 ﻿
+//This using isn't used in this file: you can remove it
 using System.Reflection.Metadata;
 using System.Text.Json;
 using Entities;
@@ -25,6 +26,7 @@ namespace Repository
                 while ((currentUserInFile = reader.ReadLine()) != null)
                 {
                     Users user = JsonSerializer.Deserialize<Users>(currentUserInFile);
+                    //Login checks only the password: should it also compare the email (loguser.logemail)?
                     if (user.password == loguser.logpassword)
                         return user;
                 }
@@ -42,6 +44,7 @@ namespace Repository
                 {
                     Users user =
                     JsonSerializer.Deserialize<Users>(currentUserInFile);
+                    //Once the user with this id is found, does the loop need to keep reading the file? Consider a break
                     if (user.Id == id)
                         textToReplace = currentUserInFile;
                 }
