@@ -21,6 +21,7 @@ const signIn = async () => {
         alert("error, try again");
 }
 
+//In JavaScript, function names are written in camelCase: logIn
 const LogIn = async () => {
     try {
         const postData2 = {

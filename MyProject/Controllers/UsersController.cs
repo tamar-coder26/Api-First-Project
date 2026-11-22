@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+//This using isn't used in this file: you can remove it
 using System.Runtime.Intrinsics.Arm;
 using System.Text.Json;
 using Service;
@@ -27,6 +28,7 @@ namespace MyProject.Controllers
         public ActionResult<Users> Get(int id)
             {
 
+            //Why is GET by id not implemented? It should read the file and return the user with this id (NotFound if there isn't one)
             return NotFound() ;
             }
         
@@ -45,6 +47,7 @@ namespace MyProject.Controllers
         public ActionResult<Users> Post([FromBody] Users user)
         {
               
+           //Where is the password strength check? The assignment asks the users controller to call the password service's interface: where should a weak password (score below 3) return 400?
            return userservice.AddUser(user);
         }
         [HttpPost ("Login")]
@@ -54,6 +57,8 @@ namespace MyProject.Controllers
         }
         // PUT api/<UsersController>/5
         [HttpPut("{id}")]
+        //The assignment asks PUT to return Ok(): change void to IActionResult and return Ok() at the end
+        //Where is the password strength check for update? A weak password (score below 3) should return 400 here
         public void Put(int id, [FromBody] Users putuser)
         {
              userservice.Update(id, putuser);
