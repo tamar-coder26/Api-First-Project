@@ -283,6 +283,7 @@ D:\API 02.11\MyProject 29.10\MyProject\obj\Debug\net10.0\staticwebassets.upToDat
 D:\API 02.11\MyProject 29.10\MyProject\obj\Debug\net10.0\MyProject.csproj.Up2Date
 D:\API 02.11\MyProject 29.10\MyProject\obj\Debug\net10.0\MyProject.genruntimeconfig.cache
 D:\API 02.11\MyProject 29.10\MyProject\obj\Debug\net10.0\ref\MyProject.dll
+<<<<<<< HEAD
 D:\API 04.11\MyProject 04.11\MyProject\obj\Debug\net10.0\MyProject.csproj.AssemblyReference.cache
 D:\API 04.11\MyProject 04.11\MyProject\obj\Debug\net10.0\rpswa.dswa.cache.json
 D:\API 04.11\MyProject 04.11\MyProject\obj\Debug\net10.0\MyProject.GeneratedMSBuildEditorConfig.editorconfig
@@ -327,3 +328,21 @@ D:\API 04.11\MyProject 04.11\MyProject\obj\Debug\net10.0\staticwebassets.upToDat
 D:\API 04.11\MyProject 04.11\MyProject\obj\Debug\net10.0\MyProject.csproj.Up2Date
 D:\API 04.11\MyProject 04.11\MyProject\obj\Debug\net10.0\MyProject.genruntimeconfig.cache
 D:\API 04.11\MyProject 04.11\MyProject\obj\Debug\net10.0\ref\MyProject.dll
+=======
+>>>>>>> 3e205681fc3bb134dc4bd1a235318b8ff402fb18
+D:\MyProject 05.11\MyProject\obj\Debug\net10.0\MyProject.csproj.AssemblyReference.cache
+D:\MyProject 05.11\MyProject\obj\Debug\net10.0\MyProject.dll
+D:\MyProject 05.11\MyProject\obj\Debug\net10.0\refint\MyProject.dll
+D:\MyProject 05.11\MyProject\obj\Debug\net10.0\MyProject.pdb
+E:\MyProject 05.11\MyProject\obj\Debug\net10.0\MyProject.csproj.AssemblyReference.cache
+E:\MyProject 05.11\MyProject\obj\Debug\net10.0\MyProject.dll
+E:\MyProject 05.11\MyProject\obj\Debug\net10.0\refint\MyProject.dll
+E:\MyProject 05.11\MyProject\obj\Debug\net10.0\MyProject.pdb
+E:\MyProject 19.11\MyProject\obj\Debug\net10.0\MyProject.csproj.AssemblyReference.cache
+E:\MyProject 19.11\MyProject\obj\Debug\net10.0\MyProject.dll
+E:\MyProject 19.11\MyProject\obj\Debug\net10.0\refint\MyProject.dll
+E:\MyProject 19.11\MyProject\obj\Debug\net10.0\MyProject.pdb
+D:\MyProject 19.11\MyProject\obj\Debug\net10.0\MyProject.csproj.AssemblyReference.cache
+D:\MyProject 19.11\MyProject\obj\Debug\net10.0\MyProject.dll
+D:\MyProject 19.11\MyProject\obj\Debug\net10.0\refint\MyProject.dll
+D:\MyProject 19.11\MyProject\obj\Debug\net10.0\MyProject.pdb

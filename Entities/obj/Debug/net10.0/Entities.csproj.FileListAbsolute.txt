@@ -1,26 +1,53 @@
-D:\API 02.11\MyProject 29.10\Entities\obj\Debug\net10.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
-D:\API 02.11\MyProject 29.10\Entities\obj\Debug\net10.0\Entities.AssemblyInfoInputs.cache
-D:\API 02.11\MyProject 29.10\Entities\obj\Debug\net10.0\Entities.AssemblyInfo.cs
-D:\API 02.11\MyProject 29.10\Entities\obj\Debug\net10.0\Entities.csproj.CoreCompileInputs.cache
-D:\API 02.11\MyProject 29.10\Entities\obj\Debug\net10.0\Entities.sourcelink.json
-D:\API 02.11\MyProject 29.10\Entities\bin\Debug\net10.0\Entities.deps.json
-D:\API 02.11\MyProject 29.10\Entities\bin\Debug\net10.0\Entities.dll
-D:\API 02.11\MyProject 29.10\Entities\bin\Debug\net10.0\Entities.pdb
-D:\API 02.11\MyProject 29.10\Entities\obj\Debug\net10.0\Entities.dll
-D:\API 02.11\MyProject 29.10\Entities\obj\Debug\net10.0\refint\Entities.dll
-D:\API 02.11\MyProject 29.10\Entities\obj\Debug\net10.0\Entities.pdb
-D:\API 02.11\MyProject 29.10\Entities\obj\Debug\net10.0\ref\Entities.dll
-D:\API 02.11\MyProject 29.10\Entities\obj\Debug\net10.0\Entities.csproj.Up2Date
-D:\API 04.11\MyProject 04.11\Entities\bin\Debug\net10.0\Entities.deps.json
-D:\API 04.11\MyProject 04.11\Entities\bin\Debug\net10.0\Entities.dll
-D:\API 04.11\MyProject 04.11\Entities\bin\Debug\net10.0\Entities.pdb
-D:\API 04.11\MyProject 04.11\Entities\obj\Debug\net10.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
-D:\API 04.11\MyProject 04.11\Entities\obj\Debug\net10.0\Entities.AssemblyInfoInputs.cache
-D:\API 04.11\MyProject 04.11\Entities\obj\Debug\net10.0\Entities.AssemblyInfo.cs
-D:\API 04.11\MyProject 04.11\Entities\obj\Debug\net10.0\Entities.csproj.CoreCompileInputs.cache
-D:\API 04.11\MyProject 04.11\Entities\obj\Debug\net10.0\Entities.sourcelink.json
-D:\API 04.11\MyProject 04.11\Entities\obj\Debug\net10.0\Entities.dll
-D:\API 04.11\MyProject 04.11\Entities\obj\Debug\net10.0\refint\Entities.dll
-D:\API 04.11\MyProject 04.11\Entities\obj\Debug\net10.0\Entities.pdb
-D:\API 04.11\MyProject 04.11\Entities\obj\Debug\net10.0\ref\Entities.dll
-D:\API 04.11\MyProject 04.11\Entities\obj\Debug\net10.0\Entities.csproj.Up2Date
+D:\MyProject 05.11\Entities\bin\Debug\net10.0\Entities.deps.json
+D:\MyProject 05.11\Entities\bin\Debug\net10.0\Entities.dll
+D:\MyProject 05.11\Entities\bin\Debug\net10.0\Entities.pdb
+D:\MyProject 05.11\Entities\obj\Debug\net10.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProject 05.11\Entities\obj\Debug\net10.0\Entities.AssemblyInfoInputs.cache
+D:\MyProject 05.11\Entities\obj\Debug\net10.0\Entities.AssemblyInfo.cs
+D:\MyProject 05.11\Entities\obj\Debug\net10.0\Entities.csproj.CoreCompileInputs.cache
+D:\MyProject 05.11\Entities\obj\Debug\net10.0\Entities.sourcelink.json
+D:\MyProject 05.11\Entities\obj\Debug\net10.0\Entities.dll
+D:\MyProject 05.11\Entities\obj\Debug\net10.0\refint\Entities.dll
+D:\MyProject 05.11\Entities\obj\Debug\net10.0\Entities.pdb
+D:\MyProject 05.11\Entities\obj\Debug\net10.0\ref\Entities.dll
+D:\MyProject 05.11\Entities\obj\Debug\net10.0\Entities.csproj.Up2Date
+E:\MyProject 05.11\Entities\bin\Debug\net10.0\Entities.deps.json
+E:\MyProject 05.11\Entities\bin\Debug\net10.0\Entities.dll
+E:\MyProject 05.11\Entities\bin\Debug\net10.0\Entities.pdb
+E:\MyProject 05.11\Entities\obj\Debug\net10.0\Entities.csproj.AssemblyReference.cache
+E:\MyProject 05.11\Entities\obj\Debug\net10.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyProject 05.11\Entities\obj\Debug\net10.0\Entities.AssemblyInfoInputs.cache
+E:\MyProject 05.11\Entities\obj\Debug\net10.0\Entities.AssemblyInfo.cs
+E:\MyProject 05.11\Entities\obj\Debug\net10.0\Entities.csproj.CoreCompileInputs.cache
+E:\MyProject 05.11\Entities\obj\Debug\net10.0\Entities.sourcelink.json
+E:\MyProject 05.11\Entities\obj\Debug\net10.0\Entities.dll
+E:\MyProject 05.11\Entities\obj\Debug\net10.0\refint\Entities.dll
+E:\MyProject 05.11\Entities\obj\Debug\net10.0\Entities.pdb
+E:\MyProject 05.11\Entities\obj\Debug\net10.0\ref\Entities.dll
+E:\MyProject 19.11\Entities\bin\Debug\net10.0\Entities.deps.json
+E:\MyProject 19.11\Entities\bin\Debug\net10.0\Entities.dll
+E:\MyProject 19.11\Entities\bin\Debug\net10.0\Entities.pdb
+E:\MyProject 19.11\Entities\obj\Debug\net10.0\Entities.csproj.AssemblyReference.cache
+E:\MyProject 19.11\Entities\obj\Debug\net10.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyProject 19.11\Entities\obj\Debug\net10.0\Entities.AssemblyInfoInputs.cache
+E:\MyProject 19.11\Entities\obj\Debug\net10.0\Entities.AssemblyInfo.cs
+E:\MyProject 19.11\Entities\obj\Debug\net10.0\Entities.csproj.CoreCompileInputs.cache
+E:\MyProject 19.11\Entities\obj\Debug\net10.0\Entities.sourcelink.json
+E:\MyProject 19.11\Entities\obj\Debug\net10.0\Entities.dll
+E:\MyProject 19.11\Entities\obj\Debug\net10.0\refint\Entities.dll
+E:\MyProject 19.11\Entities\obj\Debug\net10.0\Entities.pdb
+E:\MyProject 19.11\Entities\obj\Debug\net10.0\ref\Entities.dll
+D:\MyProject 19.11\Entities\bin\Debug\net10.0\Entities.deps.json
+D:\MyProject 19.11\Entities\bin\Debug\net10.0\Entities.dll
+D:\MyProject 19.11\Entities\bin\Debug\net10.0\Entities.pdb
+D:\MyProject 19.11\Entities\obj\Debug\net10.0\Entities.csproj.AssemblyReference.cache
+D:\MyProject 19.11\Entities\obj\Debug\net10.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProject 19.11\Entities\obj\Debug\net10.0\Entities.AssemblyInfoInputs.cache
+D:\MyProject 19.11\Entities\obj\Debug\net10.0\Entities.AssemblyInfo.cs
+D:\MyProject 19.11\Entities\obj\Debug\net10.0\Entities.csproj.CoreCompileInputs.cache
+D:\MyProject 19.11\Entities\obj\Debug\net10.0\Entities.sourcelink.json
+D:\MyProject 19.11\Entities\obj\Debug\net10.0\Entities.dll
+D:\MyProject 19.11\Entities\obj\Debug\net10.0\refint\Entities.dll
+D:\MyProject 19.11\Entities\obj\Debug\net10.0\Entities.pdb
+D:\MyProject 19.11\Entities\obj\Debug\net10.0\ref\Entities.dll
+D:\MyProject 19.11\Entities\obj\Debug\net10.0\Entities.csproj.Up2Date

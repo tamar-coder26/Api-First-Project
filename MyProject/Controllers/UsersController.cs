@@ -28,10 +28,10 @@ namespace MyProject.Controllers
         static string filePath = "User.txt";
         // GET api/<UsersController>/5
         [HttpGet("{id}")]
-        public ActionResult<Users> Get(int id)
+        public async Task<ActionResult<Users>> Get(int id)
             {
-
-            return NotFound() ;
+             return await userservice.GetById(id);
+             //return NotFound() ;
             }
         
         //POST api/<UsersController>
@@ -46,13 +46,13 @@ namespace MyProject.Controllers
         //    return Ok(user);
         //}
         [HttpPost]
-        public ActionResult<Users> Post([FromBody] Users user)
+        public Task<ActionResult<Users>> Post([FromBody] Users user)
         {
               
            return userservice.AddUser(user);
         }
         [HttpPost ("Login")]
-        public ActionResult<Users> PostLog([FromBody] LogUsers loginUser)
+        public Task<ActionResult<Users>> PostLog([FromBody] LogUsers loginUser)
         {
             return userservice.GetUser(loginUser);
         }

@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 D:\API 04.11\MyProject 04.11\MyProject\wwwroot\Home.js
 D:\API 04.11\MyProject 04.11\MyProject\wwwroot\Update.js
 D:\API 04.11\MyProject 04.11\MyProject\wwwroot\Update.html
 D:\API 04.11\MyProject 04.11\MyProject\wwwroot\Home.html
+=======
+D:\API 02.11\MyProject 29.10\MyProject\wwwroot\Home.js
+D:\API 02.11\MyProject 29.10\MyProject\wwwroot\Update.js
+D:\API 02.11\MyProject 29.10\MyProject\wwwroot\Update.html
+D:\API 02.11\MyProject 29.10\MyProject\wwwroot\Home.html
+>>>>>>> 3e205681fc3bb134dc4bd1a235318b8ff402fb18
 wwwroot\Home.html
 wwwroot\Home.js
 wwwroot\Update.html

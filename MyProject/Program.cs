@@ -9,8 +9,9 @@ builder.Services.AddControllers();
 
 builder.Services.AddTransient<Iservice,UserService>();
 builder.Services.AddTransient<IRepository, UserRepository>();
+builder.Services.AddTransient<ITamarStore,TamarStoreContext>();
 
-
+//builder.Services.AddOpenApi();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

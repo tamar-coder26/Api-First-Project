@@ -14,6 +14,7 @@ D:\API 02.11\MyProject 29.10\Repository\obj\Debug\net10.0\Repository.dll
 D:\API 02.11\MyProject 29.10\Repository\obj\Debug\net10.0\refint\Repository.dll
 D:\API 02.11\MyProject 29.10\Repository\obj\Debug\net10.0\Repository.pdb
 D:\API 02.11\MyProject 29.10\Repository\obj\Debug\net10.0\ref\Repository.dll
+<<<<<<< HEAD
 D:\API 04.11\MyProject 04.11\Repository\bin\Debug\net10.0\Repository.deps.json
 D:\API 04.11\MyProject 04.11\Repository\bin\Debug\net10.0\Repository.dll
 D:\API 04.11\MyProject 04.11\Repository\bin\Debug\net10.0\Repository.pdb
@@ -30,3 +31,55 @@ D:\API 04.11\MyProject 04.11\Repository\obj\Debug\net10.0\Repository.dll
 D:\API 04.11\MyProject 04.11\Repository\obj\Debug\net10.0\refint\Repository.dll
 D:\API 04.11\MyProject 04.11\Repository\obj\Debug\net10.0\Repository.pdb
 D:\API 04.11\MyProject 04.11\Repository\obj\Debug\net10.0\ref\Repository.dll
+=======
+>>>>>>> 3e205681fc3bb134dc4bd1a235318b8ff402fb18
+D:\MyProject 05.11\Repository\obj\Debug\net10.0\Repository.csproj.AssemblyReference.cache
+D:\MyProject 05.11\Repository\obj\Debug\net10.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProject 05.11\Repository\obj\Debug\net10.0\Repository.AssemblyInfoInputs.cache
+D:\MyProject 05.11\Repository\obj\Debug\net10.0\Repository.AssemblyInfo.cs
+D:\MyProject 05.11\Repository\obj\Debug\net10.0\Repository.csproj.CoreCompileInputs.cache
+D:\MyProject 05.11\Repository\obj\Debug\net10.0\Repository.sourcelink.json
+D:\MyProject 05.11\Repository\obj\Debug\net10.0\Repository.dll
+D:\MyProject 05.11\Repository\obj\Debug\net10.0\refint\Repository.dll
+D:\MyProject 05.11\Repository\obj\Debug\net10.0\Repository.pdb
+D:\MyProject 05.11\Repository\bin\Debug\net10.0\Repository.deps.json
+D:\MyProject 05.11\Repository\bin\Debug\net10.0\Repository.dll
+D:\MyProject 05.11\Repository\bin\Debug\net10.0\Repository.pdb
+D:\MyProject 05.11\Repository\bin\Debug\net10.0\Entities.dll
+D:\MyProject 05.11\Repository\bin\Debug\net10.0\Entities.pdb
+D:\MyProject 05.11\Repository\obj\Debug\net10.0\Repository.csproj.Up2Date
+D:\MyProject 05.11\Repository\obj\Debug\net10.0\ref\Repository.dll
+E:\MyProject 05.11\Repository\obj\Debug\net10.0\Repository.csproj.AssemblyReference.cache
+E:\MyProject 05.11\Repository\obj\Debug\net10.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyProject 05.11\Repository\obj\Debug\net10.0\Repository.AssemblyInfoInputs.cache
+E:\MyProject 05.11\Repository\obj\Debug\net10.0\Repository.AssemblyInfo.cs
+E:\MyProject 05.11\Repository\obj\Debug\net10.0\Repository.csproj.CoreCompileInputs.cache
+E:\MyProject 05.11\Repository\obj\Debug\net10.0\Repository.sourcelink.json
+E:\MyProject 05.11\Repository\obj\Debug\net10.0\Repository.dll
+E:\MyProject 05.11\Repository\obj\Debug\net10.0\refint\Repository.dll
+E:\MyProject 05.11\Repository\obj\Debug\net10.0\Repository.pdb
+E:\MyProject 05.11\Repository\bin\Debug\net10.0\Repository.deps.json
+E:\MyProject 05.11\Repository\bin\Debug\net10.0\Repository.dll
+E:\MyProject 05.11\Repository\bin\Debug\net10.0\Repository.pdb
+E:\MyProject 05.11\Repository\bin\Debug\net10.0\Entities.dll
+E:\MyProject 05.11\Repository\bin\Debug\net10.0\Entities.pdb
+E:\MyProject 05.11\Repository\obj\Debug\net10.0\Repository.csproj.Up2Date
+E:\MyProject 05.11\Repository\obj\Debug\net10.0\ref\Repository.dll
+E:\MyProject 19.11\Repository\obj\Debug\net10.0\Repository.csproj.AssemblyReference.cache
+E:\MyProject 19.11\Repository\obj\Debug\net10.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyProject 19.11\Repository\obj\Debug\net10.0\Repository.AssemblyInfoInputs.cache
+E:\MyProject 19.11\Repository\obj\Debug\net10.0\Repository.AssemblyInfo.cs
+E:\MyProject 19.11\Repository\obj\Debug\net10.0\Repository.csproj.CoreCompileInputs.cache
+E:\MyProject 19.11\Repository\obj\Debug\net10.0\Repository.sourcelink.json
+E:\MyProject 19.11\Repository\obj\Debug\net10.0\Repository.dll
+E:\MyProject 19.11\Repository\obj\Debug\net10.0\refint\Repository.dll
+E:\MyProject 19.11\Repository\obj\Debug\net10.0\Repository.pdb
+D:\MyProject 19.11\Repository\obj\Debug\net10.0\Repository.csproj.AssemblyReference.cache
+D:\MyProject 19.11\Repository\obj\Debug\net10.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProject 19.11\Repository\obj\Debug\net10.0\Repository.AssemblyInfoInputs.cache
+D:\MyProject 19.11\Repository\obj\Debug\net10.0\Repository.AssemblyInfo.cs
+D:\MyProject 19.11\Repository\obj\Debug\net10.0\Repository.csproj.CoreCompileInputs.cache
+D:\MyProject 19.11\Repository\obj\Debug\net10.0\Repository.sourcelink.json
+D:\MyProject 19.11\Repository\obj\Debug\net10.0\Repository.dll
+D:\MyProject 19.11\Repository\obj\Debug\net10.0\refint\Repository.dll
+D:\MyProject 19.11\Repository\obj\Debug\net10.0\Repository.pdb

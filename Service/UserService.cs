@@ -5,26 +5,48 @@ using Entities;
 
 namespace Service
 {
-    public class UserService: Iservice
+    public class UserService : Iservice
     {
 
         IRepository r;
         public UserService(IRepository userR)
         {
-            r= userR;
+            r = userR;
         }
-        public Users AddUser(Users users)
+
+        public Task<IEnumerable<Users>> Get()
         {
-            return r.AddUser(users);
+            return r.Get();
         }
-        public Users GetUser(LogUsers users)
+        public async Task<Users> GetById()
         {
-            return r.GetUser(users);
+            return await r.GetById();
         }
-        public void Update(int id,Users users)
+        public async Task<Users> Login(LogUsers loguser)
         {
-             r.Update(id,users);
+            return await r.Login(loguser);
         }
+        public async Task<Users> Post(Users user)
+        {
+            return await r.Post(user);
+        }
+        public async void Put(int id, Users userToUpdae)
+        {
+            r.Put(id, userToUpdae);
+        }
+        // public Users AddUser(Users users)
+        // {
+        //         return r.Post(users);
+        // }
+        // public Task<Users> GetUser(LogUsers users)
+        // {
+        //         return r.Login(users);
+        // }
+        //public void Update(int id, Users users)
+        //{
+        //         r.Put(id, users);
+        //}
     }
-}
+    }
+
 
